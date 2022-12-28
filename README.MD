@@ -53,7 +53,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | NextJS | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/caioreix/) | [Clique aqui ➡️](https://github.com/caioreix/NextJs4noobs) |
 | Rails | Introdução ao Ruby on Rails. | [Ederson Ferreira](https://github.com/edersonferreira/) | [Clique aqui ➡️](https://github.com/edersonferreira/rails4noobs) |
 | Vue | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout) | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
-| Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliper2002) | [Clique aqui ➡️](https://github.com/feliper2002/flutter4noobs) |
+| Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliperfdev) | [Clique aqui ➡️](https://github.com/feliperfdev/flutter4noobs) |
 
 
 ### 🔧 Ferramentas
